@@ -1,0 +1,11 @@
+#IDEA
+.idea/
+
+#iml
+*.iml
+
+#txt
+*.txt
+
+out/
+bin/
