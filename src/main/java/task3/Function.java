@@ -1,6 +1,5 @@
 package main.java.task3;
 
-import javax.sound.midi.Soundbank;
 import java.util.Locale;
 import java.util.Scanner;
 
