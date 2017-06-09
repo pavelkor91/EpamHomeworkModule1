@@ -1,6 +1,7 @@
 package task6;
 
 
+import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 

@@ -1,7 +1,7 @@
-package main.java.task1.main;
+package task1.main;
 
 
-import main.java.task1.logic.Logic;
+import task1.logic.Logic;
 
 public class Main {
     public static void main(String[] args) {

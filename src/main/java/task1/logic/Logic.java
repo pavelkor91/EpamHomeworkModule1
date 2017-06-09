@@ -1,4 +1,4 @@
-package main.java.task1.logic;
+package task1.logic;
 
 
 public class Logic {
